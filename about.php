@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KAMALA PRINTING PRESS | ABOUT US</title>
+	<meta charset="utf-8">
+	<meta name="KAMALA PRINTING PRESS,kamala printing press"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="shortcut icon" href="img/logo.jpg"/>
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<link href='//fonts.googleapis.com/css?family=Archivo Black' rel='stylesheet'>
+	<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+</head>
+<body>
+
+	<div class="header">
+		<a href="index.php"><img class="logo" src="img/logo.jpg"></a>
+	</div>
+	
+	<div class="navigation-bar">
+		<?php include ('nav.php'); ?>
+	</div>
+
+	<div class="section-tagline">
+		<a href="index.php">Home</a>&nbsp<i class="fa fa-2x fa-angle-double-right" aria-hidden="true"></i>&nbsp<span>About</span>
+	</div>
+	<div class="web-section">
+		<div class="container">
+			<div class="col-md-12">
+				<h4 class="page-title">ABOUT US</h4>
+				<div class="dotted-hr"></div>
+				<div class="about-group">
+					<h4 class="heading-title"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>&nbsp Company Profile</h4>
+					<p class="about-group-content">
+						<strong>Kamala Printing Press</strong> is proprietorship company, founded by Shri Anjani Kumar Singh in  1990, company is a trusted and renowned in all printing solution provider, committed to providing impressive services in line with the  latest technological trends.  Through the years of constant change  in the  media, market  demand, and  drastic changes  in  technology, Kamala Printing Press was able to adapt and grow with the changing  environment,  into one of the most  trusted names in  the printing industry in Varanasi, eastern part of Uttar Pradesh which is largest  state  of  lndia. Kamala Printing Press. has  assisted  in enhancing  the corporate image and branding of some of the most etite corporate organisations here in the varanasi and subsequent location. Customer service, high quality printing and state of the art technology are given utmost priority at Kamala Printing Press.
+					</p>
+				</div>
+				<div class="about-group">
+					<h4 class="heading-title"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>&nbsp Product/Services</h4>
+					<p class="about-group-content">
+						<strong>Kamala Printing Press</strong> presently has the following  facilities  to undertake commercial printing for all the segments of the industry. We undertake and execute orders to produce the following in our diverse facility plant:</br></br>
+
+						Brochure</br>
+						Catalogue</br>
+						Poster</br>
+						Leaflet</br>
+						Folders</br>
+						Wobblers</br>
+						Newsletter</br>
+						Menu Card</br>
+						Greeting Card</br>
+						Calendar</br>
+						Corporate Stationery</br>
+						Utility Boxes & Envelope.</br>
+						</br>
+						</br>
+						We are fortunate to have one of the best Marketing teams who in the past have served many of the major corporate houses and advertising agencies across the Uttar Pradesh (East).
+					</p>
+				</div>
+				<div class="about-group">
+					<h4 class="heading-title"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>&nbsp Our lnfrastructure</h4>
+					<p class="about-group-content">
+						<strong>Kamala Printing Press's</strong> production lines are equipped with the latest machineries like brand new Heidelberg  SM74 supported by the best and highly skilled manpower with years of dedicated service in various printing fields,and having hands on experience on the most sophisticated machines. We are a one-stop-shop for all your printing and other allied work and the uniqueness, which makes us different from others. Be it for your corporate identity, promotional or packaging needs, you can entrust us with your task and be assured that it will be executed with perfection.
+					</p>
+				</div>
+				<div class="about-group">
+					<h4 class="heading-title"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>&nbsp Pre Press</h4>
+					<p class="about-group-content">
+						<strong>Kamala Printing Press's</strong> has the advantage of being equipped with full-fledged pre-press studio with all the latest technologies  and machineries. The team assigned to prepress is well experienced and highly efficient to handle any challenges.
+					</p>
+					 <table class="table">
+					    <thead>
+					      <tr>
+					        <th>PRE PRESS MACHINERIES</th>
+					        <th>QUANIITY</th>
+					      </tr>
+					    </thead>
+					    <tbody>
+					      <tr>
+					        <td>1.HP Proliant servers & workstation</td>
+					        <td>9 NO.</td>
+					      </tr>
+					      <tr>
+					        <td>2.Plate processor CTP by Technova</td>
+					        <td>1 NO.</td>
+					      </tr>
+					       <tr>
+					        <td>3.Heidelberg (PPI) Pre press interface</td>
+					        <td>1 NO.</td>
+					      </tr>
+					    </tbody>
+					  </table>
+				</div>
+				<div class="about-group">
+					<h4 class="heading-title"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>&nbsp PRESS</h4>
+					<p class="about-group-content">
+						Complimenting the recently attained printing machinery, Kamala Printing Press possesses a Press section, where hundreds of manpower works around the clock to implement the client’s impression and aspirations using the latest techniques available in the printing industry. In this department, all our major machines were acquired brand new, which highlights our quality aspect.
+						<table class="table">
+					    <thead>
+					      <tr>
+					        <th>PRESS MACHINERIES</th>
+					        <th>QUANIITY</th>
+					      </tr>
+					    </thead>
+					    <tbody>
+					      <tr>
+					        <td>1. Heidelberg SM-74 4 color machine (Auto plate)</td>
+					        <td>1 NO.</td>
+					      </tr>
+					      <tr>
+					        <td>2. Heidelberg SM-74 5 color machine (Auto plate) </td>
+					        <td>1 NO.</td>
+					      </tr>
+					    </tbody>
+					  </table>
+					</p>	
+				</div>
+				<div class="about-group">
+					<h4 class="heading-title"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>&nbsp Post Press</h4>
+					<p class="about-group-content">
+						<strong>Kamala Printing Press's</strong> is equipped with high configuration automatic machines, manpowered by over 100 personnel who ensure that the finishing results are in sync with the client’s requirements. A great deal of attention is laid on the ‘finished’ product by our exceptionally skilled manpower who gives attention-to-detail.
+						</br>
+						</br>
+						The progressive functions in the Post press studio are
+						</br>
+						Cutting</br>
+						Folding</br>
+						Stitching</br>
+						Adhesive Binding</br>
+						Die Cutting</br>
+						Label Systems</br>
+						Thermal Lamination</br>
+						Ultra Violet Coating</br>
+						Leap Printing</br>
+						BOPP/PVC Lamination</br>
+					</p>
+				</div>
+				<div class="about-group">
+					<h4 class="heading-title"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>&nbsp Quality</h4>
+					<p class="about-group-content">
+						<strong>Kamala Printing Press</strong> is a reliable company for your complete printing needs with persistence and precision. Hence by applying the best quality practices and procedures of the printing industry, we insure amazing results for affordable prices. We are currently functioning and practicing our services accordingly.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<?php include ('footer.php');?>
+</body>
+<script type="text/javascript" src="js/main.js"></script>
+</html>

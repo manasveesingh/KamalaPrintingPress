@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KAMALA PRINTING PRESS | HEIDELBERG SPEEDMASTER SM74 (5 COLOR+UV+Coater)</title>
+	<meta charset="utf-8">
+	<meta name="KAMALA PRINTING PRESS,HEIDELBERG SPEEDMASTER SM74(5 COLOR+UV+Coater),HEIDELBERG SPEEDMASTER SM74(5 COLOR),kamala printing press,heidelberg5color,HEIDELBERG SPEEDMASTER SM74,Heidelberg sm74,Heidelberg sm74 5 color"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="shortcut icon" href="img/logo.jpg"/>
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+</head>
+<body>
+	<div class="header">
+		<a href="index.php"><img class="logo" src="img/logo.jpg"></a>
+	</div>
+	
+	<div class="navigation-bar">
+		<?php include ('nav.php'); ?>
+	</div>
+	
+	<div class="section-tagline">
+		<a href="index.php">Home</a>&nbsp<i class="fa fa-2x fa-angle-double-right" aria-hidden="true"></i>&nbsp<span>Services</span>&nbsp<i class="fa fa-2x fa-angle-double-right" aria-hidden="true"></i>&nbsp<span>Heidelberg Speedmaster</span>
+	</div>
+
+	<div class="web-section">
+		<div class="container">
+			<div class="col-md-12">
+				<div class="services-group">
+					<h4 class="services-title">HEIDELBERG SPEEDMASTER SM74 (5 COLOR+UV+Coater)</h4>
+					<div class="dotted-hr"></div>
+					<div class="services-description">
+						<p class="message">
+							Heidelberg Speedmaster SM 74-5-P L-coater-UV  is a 5 color printing model which was produced in Germany by Heidelberg.The high energy and resource efficiency of the Speedmaster SM 74 make it the most environmentally friendly press in its class. Star System peripherals perfectly coordinated with the press benefit from highly efficient operation and conserve resources.
+						</p>
+					</div>
+
+					<div class="services-group-section">
+						<h4 class="services-group-section-headline"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>&nbspSpecifications:</h4>
+						<p class="point-description">
+							Type: Offset press</br>
+							Manufacturer: Heidelberg</br>
+							Model: Speedmaster SM 74-5-P L-coater-UV</br>
+							Colors: 5</br>
+							Paper format max: 52x74cm</br>
+							Print format max: 51x74cm</br>
+							Press speed max: 15000</br>
+							Length: 8640</br>
+							Width: 2760</br>
+							Height: 1860</br>
+							Weight:NA</br>
+							First year of production: 1998</br>
+							Last year of production:NA</br>
+							Country: Germany</br>
+						</p>
+					</div>
+				</div>
+	
+				<h4 class="services-group-section-headline"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+							&nbsp Gallery</h4>
+				<div class="row">
+					<div class="column">
+						<img src="img/DSC_9388.jpg" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+					</div>
+					<div class="column">
+						<img src="img/DSC_9396.jpg" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+					</div>
+					<div class="column">
+						<img src="img/DSC_9399.jpg" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+					</div>
+					<div class="column">
+						<img src="img/DSC_9402.jpg" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+					</div>
+				</div>
+
+				<div id="myModal" class="modal">
+					<span class="close cursor" onclick="closeModal()">&times;</span>
+				  	<div class="modal-content">
+
+					    <div class="mySlides">
+					      <div class="numbertext">1 / 4</div>
+					      <img src="img/DSC_9388.jpg" style="width:100%">
+					    </div>
+
+					    <div class="mySlides">
+					      <div class="numbertext">2 / 4</div>
+					      <img src="img/DSC_9396.jpg" style="width:100%">
+					    </div>
+
+					    <div class="mySlides">
+					      <div class="numbertext">3 / 4</div>
+					      <img src="img/DSC_9399.jpg" style="width:100%">
+					    </div>
+					    
+					    <div class="mySlides">
+					      <div class="numbertext">4 / 4</div>
+					      <img src="img/DSC_9402.jpg" style="width:100%">
+					    </div>
+					    
+					    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+					    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+					    <div class="caption-container">
+					      <p id="caption"></p>
+					    </div>
+					</div>    
+				</div>
+
+				
+			</div>
+		</div>
+	</div>
+	<?php include ('footer.php') ?>;		
+</body>
+
+<script type="text/javascript" src="js/main.js"></script>
+</html>
