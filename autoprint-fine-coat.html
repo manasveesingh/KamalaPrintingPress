@@ -12,15 +12,15 @@
 </head>
 <body>
 	<div class="header">
-		<a href="index.php"><img class="logo" src="img/logo.jpg"></a>
+		<a href="index.html"><img class="logo" src="img/logo.jpg"></a>
 	</div>
 	
 	<div class="navigation-bar">
-		<?php include ('nav.php'); ?>
+		<div id="load-navigation"></div>
 	</div>
 
 	<div class="section-tagline">
-		<a href="index.php">Home</a>&nbsp<i class="fa fa-2x fa-angle-double-right" aria-hidden="true"></i>&nbsp<span>Services</span>&nbsp<i class="fa fa-2x fa-angle-double-right" aria-hidden="true"></i>&nbsp<span>Autoprint Fine Coat</span>
+		<a href="index.html">Home</a>&nbsp<i class="fa fa-2x fa-angle-double-right" aria-hidden="true"></i>&nbsp<span>Services</span>&nbsp<i class="fa fa-2x fa-angle-double-right" aria-hidden="true"></i>&nbsp<span>Autoprint Fine Coat</span>
 	</div>
 
 	<div class="web-section">
@@ -225,7 +225,11 @@
 			</div> <!--end of col-md-12 -->
 		</div> <!--end of container -->
 	</div> <!--end of web-section -->
-<?php include ('footer.php') ?>			
+	
+
+<div id="load-footer"></div>
+
 </body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript" src="js/main.js"></script>
 </html>

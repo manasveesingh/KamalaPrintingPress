@@ -18,15 +18,15 @@
 </style>	
 <body>
 	<div class="header">
-		<a href="index.php"><img class="logo" src="img/logo.jpg"></a>
+		<a href="index.html"><img class="logo" src="img/logo.jpg"></a>
 	</div>
 
 	<div class="navigation-bar">
-		<?php include ('nav.php'); ?>
+		<div id="load-navigation"></div>
 	</div>
 
 	<div class="slider">
-		<?php include ('slider.php');?>
+		<div id="load-slider"></div>
 	</div>
 
 	<div class="index-web-section">
@@ -117,7 +117,10 @@
 			</div>
 		</div>
 	<div class="parallax"></div>	
-<?php include ('footer.php'); ?>			
+
+<div id="load-footer"></div>
+
 </body>
 <script type="text/javascript" src="js/animation.js"></script>
+<script type="text/javascript" src="js/main.js"></script>
 </html>
