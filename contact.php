@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KAMALA PRINTING PRESS | CONTACT US</title>
+	<meta charset="utf-8">
+	<meta name="KAMALA PRINTING PRESS,kamala printing press"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<link rel="shortcut icon" href="img/logo.jpg"/>
+	<link rel="stylesheet" type="text/css" href="css/main.css"/>
+	<link href='//fonts.googleapis.com/css?family=Archivo Black' rel='stylesheet'>
+	<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+ 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+	
+<body>
+	<div class="header">
+		<a href="index.php"><img class="logo" src="img/logo.jpg"></a>
+	</div>
+
+	<div class="navigation-bar">
+		<?php include ('nav.php'); ?>
+	</div>
+
+	<div class="section-tagline">
+		<a href="index.php">Home</a>&nbsp<i class="fa fa-2x fa-angle-double-right" aria-hidden="true"></i>&nbsp<span>Contact</span>
+	</div>
+	<div class="web-section">
+		<div class="container">
+			<div class="col-md-4">
+				<h4 class="page-title">
+					Get In Touch With Us
+				</h4>
+				<div class="dotted-hr"></div>
+				<p class="contact-detail">
+					<strong>Contact Person: </br>
+					Anjani Kumar Singh (Proprietor) </br></br>
+					</strong>
+					
+					<strong>Office Address:</strong>
+					</br>
+					K 65/18 Jalapa Devi Road,</br>
+					KabirChaura,</br>
+					Varanasi-221001</br>
+					Mobile No.- <a href="tel:9919995500">9919995500</a></br>
+                                        Email - <a href="mailto:anjani_12353@kamalaprintingpress.com">anjani_12353@kamalaprintingpress.com</a><br>
+					</br>
+					<strong>Press Address:</strong>
+					</br>
+					SH 11/15 D-16-A,</br>
+					Gayatridham Colony,</br>
+					Chhatripur, Shivpur</br>
+					Varanasi-221003</br>
+				</p>
+			
+				<p class="contact-detail">
+				<br><br>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d901.6428340404995!2d83.00783592021803!3d25.318602391087946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x88e37bde3422ea21!2sKamala+Printing+Press!5e0!3m2!1sen!2sin!4v1495309882489" width="366" height="324" frameborder="0" style="border:0;float: right;" allowfullscreen></iframe>
+				</p>
+				</div>
+		</div>
+	</div>
+	<?php include ('footer.php');?>
+</body>
+</html>

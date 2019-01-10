@@ -1,0 +1,139 @@
+body,html {
+  height: 100%;
+  margin: 0px;
+} 
+
+
+.header {
+	padding : 12px 120px;
+}
+.header .logo {
+  width: 152px;
+}
+
+
+.index-web-section {
+  background: #ffffff;
+  box-shadow: 1px 6px 7px 6px #aebcd8;
+  border-top: 5px solid #f67878;
+}
+
+.featured-tagline-wrapper {
+  text-align: center;
+  color: #000000;
+  padding-bottom: 24px; 
+  padding-left: 4px;
+  padding-right: 4px;
+  background-color: transparent; 
+}
+.featured-tagline-wrapper h2{
+  font-weight: 600;
+  padding-top: 46px;
+}
+
+.featured-video {
+  margin: 60px 30px 60px 30px;
+}
+
+@media(max-width: 568px) {
+  .featured-video {
+    margin-top: : 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+}
+.featured-video-controller {
+  padding-top: 24px;
+  padding-bottom: 20px;
+  border-bottom: 4px solid #dfdfdf;
+}
+
+.featured-news {
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.news-section h2 {
+  font-size: 30px;
+  font-weight: 600;
+  color: #0f0f0f;
+}  
+.image-content img{
+  width: 168px;
+  margin: 46px;
+}
+
+@media(max-width: 658px) {
+  .image-content img {
+    width: 164px;
+    margin: 30px;
+  }
+
+}
+
+.parallax {
+    /* The image used */
+    background-image: url('../img/featured-text-parallax.jpg');
+
+    /* Full height */
+    height: 30%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*------------------ Navigation Bar -----------------------------------*/
+.navigation-bar {
+  border-top: 5px solid #f67878;
+  border-bottom: 5px solid #f67878;
+
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #f67878;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+  padding-left: 84px;
+}
+
+
+.section-tagline {
+  background-image: url("../img/page-top-bg.jpg");
+  width: 100%;
+  height: auto;
+  padding-top: 56px;
+  padding-bottom: 92px;
+  padding-left: 96px;
+  position: static;
+  overflow: hidden;
+}
+
+@media(max-width: 568px) {
+  .section-tagline {
+    padding-top: 56px;
+    padding-bottom: 20px;
+    padding-left: 96px;
+  }
+}
+
+
+.section-tagline a,span {
+  font-size: 26px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.section-tagline i {
+  color: #ffffff;
+}
+
+.section-tagline a:hover {
+  text-decoration: none;
+  color: #ffffff;
+}

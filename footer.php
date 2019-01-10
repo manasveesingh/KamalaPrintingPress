@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/footer.css"/>
+</head>
+<body>
+
+	<div class="footer">
+		<div class="footer-wrapper">
+			<div class="container">
+				<div class="col-md-3">
+					<div class="footer-wrapper-title">
+						<h4>About Company</h4>
+					</div>	
+					<div class="dotted-hr"></div>
+						<p class="footer-text">
+							Kamala Printing Press was established in 1990 as a provider of integrated print solutions to print buyers across all domains & corporations.With the strong hold to our company philosophy, highest satisfaction.
+						</p>
+				</div>
+
+				<div class="col-md-3">
+					<div class="footer-wrapper-title">
+						<h4>Services</h4>
+					</div>	
+					<div class="dotted-hr"></div>
+						<p class="footer-text">
+							Brochure Catalogue</br>
+							Poster	 Leaflet</br>
+							Folders  Wobblers</br>
+							Menu and Greeting Card</br>
+							Calendar </br>
+							Corporate Stationery </br>
+							Utility Boxes & Envelope </br>
+						</p>
+				</div>
+
+				<div class="col-md-3">
+					<div class="footer-wrapper-title">
+						<h4>Insights</h4>
+					</div>	
+					<div class="dotted-hr"></div>
+						<p class="footer-text">
+						<iframe width="100%" height="100%" src="https://www.youtube.com/embed/IiYUWbbrABA" frameborder="0" allowfullscreen></iframe>
+						</p>
+				</div>
+
+				<div class="col-md-3">
+					<div class="footer-wrapper-title">
+						<h4>Contact Us</h4>
+					</div>	
+					<div class="dotted-hr"></div>
+						<p class="footer-text">
+							Contact Person: </br>
+							Anjani Kumar Singh (Proprietor) </br></br>
+
+							Address:</br>
+							K-65/18 Jalapa Devi Road,
+							KabirChaura,
+							Varanasi-221001</br>
+							Phone No.-<a href="tel:9919995500">+91 9919995500</a>
+						</p>
+				</div>
+			</div>
+		</div>
+		<div class="footer-copyright-wrapper">
+			<div class="container">
+				<div class="col-md-12">
+					<p class="copyright-text">&copy Kamala Printing Press 2005-<?php echo date("Y")?>. All Rights Reserved. Developer - <a href="https://in.linkedin.com/in/avinashbarfa" target="_blank" style="text-decoration: none">Avinash Barfa</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
